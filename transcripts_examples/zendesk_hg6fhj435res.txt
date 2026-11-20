@@ -1,0 +1,45 @@
+Support Agent (Priya): Good afternoon, thank you for calling MobileCare Support, this is Priya. How may I help you today?
+
+Client (Sarah): Hi. My phone screen stopped responding about two days ago. It powers on, but I can't tap anything. I haven't dropped it or gotten it wet — it just stopped working on its own.
+
+Priya: I'm sorry to hear that, Sarah. Let's see what we can do. Could you confirm the model of your phone and when you purchased it?
+
+Sarah: It's a NovaPhone X12, and I bought it in March, so about eight months ago.
+
+Priya: Perfect — the X12 comes with a 12-month manufacturer's warranty, so you're still covered. Before I log the claim, may I run through a few quick checks with you? Sometimes an unresponsive screen can be a software issue rather than hardware.
+
+Sarah: Sure, go ahead.
+
+Priya: First, please press and hold the power button and the volume-down button together for about 10 seconds to force a restart. Let me know what happens.
+
+Sarah: Okay… it's rebooting. But the screen is still frozen.
+
+Priya: Thank you for trying. That confirms it's likely a hardware fault, which the warranty fully covers. Since it's not caused by accidental damage, there'll be no charge for the repair or replacement.
+
+Sarah: Oh good. So what happens next?
+
+Priya: I'll create a service ticket for you. You have two options: you can drop the phone at any authorized service center — the nearest one is a 15-minute drive from you — or we can send a prepaid shipping label so you can mail it to us free of charge.
+
+Sarah: Shipping it is easier. My week is packed.
+
+Priya: Not a problem. I've emailed you a prepaid shipping label and packing instructions. Once we receive the phone, diagnostics take one to two business days. If we confirm the touchscreen fault, we'll either repair it or send a replacement, usually within five business days total.
+
+Sarah: And if you replace it, will it be a new phone?
+
+Priya: Yes — replacements are refurbished units of the same model that have been fully tested and certified, with a remaining warranty equal to your original coverage. If we don't have the X12 in stock, we'll upgrade you to a comparable newer model at no cost.
+
+Sarah: What should I do with my data before sending it?
+
+Priya: Great question. Since the screen is unresponsive, we can't unlock it on your end — our technicians perform the diagnostic wipe as standard procedure. If you've enabled cloud backups, your photos and contacts will be safe and can be restored to the replacement device.
+
+Sarah: Okay, I do have automatic cloud backup on.
+
+Priya: Then you're all set. To recap: I've opened service ticket #48291, emailed your prepaid label, and once your phone arrives, you'll get updates at every stage. You'll have it back within about a week.
+
+Sarah: That was much easier than I expected. Thanks, Priya.
+
+Priya: My pleasure, Sarah. Is there anything else I can help you with today?
+
+Sarah: No, that's all. Have a nice day!
+
+Priya: You too! Thanks for choosing MobileCare.
