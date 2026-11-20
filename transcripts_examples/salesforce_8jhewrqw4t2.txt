@@ -1,0 +1,33 @@
+Support Agent (Maya): Thank you for contacting TechHelp Support, this is Maya. How can I help you today?
+
+Client (Daniel): Hi Maya. My phone hasn't been connecting to the internet since this morning. WiFi says it's connected, but nothing loads. I'm also interested in upgrading my plan while I'm at it.
+
+Maya: I'm sorry about the trouble, Daniel. Let's fix the connectivity first. Have you tried restarting your phone and router?
+
+Daniel: I restarted the phone, but not the router.
+
+Maya: Let's start there. Unplug the router for 30 seconds, then plug it back in and give it about two minutes to reconnect. Let me know once the lights are stable.
+
+Daniel: Done — all lights are on except one orange light.
+
+Maya: That orange light means the router is still establishing a connection. In the meantime, try forgetting the WiFi network on your phone and reconnecting with your password. That clears any cached settings.
+
+Daniel: Okay, did that… and the orange light just turned green. The internet is working now!
+
+Maya: Excellent! I'm glad that resolved it. Now, about the upgrade — may I have the email address on your account?
+
+Daniel: It's daniel.m@email.com.
+
+Maya: Thank you. I can see you're currently on our Basic plan. Given that you use your phone heavily for streaming and browsing, I'd recommend the Pro plan — it includes unlimited data, priority customer support, and double the hotspot allowance, for just $10 more per month.
+
+Daniel: That sounds good. Does it cost anything to switch?
+
+Maya: No upgrade fee at all. The change takes effect immediately, and your first Pro charge will appear prorated on your next bill.
+
+Daniel: Great, let's do it.
+
+Maya: All done! You're now on the Pro plan. You'll receive a confirmation email within a few minutes, and the improved speeds are active right away. Is there anything else I can help you with?
+
+Daniel: No, that's everything. Thanks for the quick fix, Maya!
+
+Maya: You're very welcome, Daniel. Thank you for being a loyal customer — have a great day!
